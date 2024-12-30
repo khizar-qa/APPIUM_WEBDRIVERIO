@@ -24,7 +24,7 @@ This project is an automation framework using WebdriverIO and Appium for both iO
     ```
 
 3. Set your Desired Capablities in `wdio.conf.js`
-4. Update file paths used in e22.js file
+4. Update file paths used in e2e.js file
 
 ## Running Tests
 1. To run the tests, use the following command:
