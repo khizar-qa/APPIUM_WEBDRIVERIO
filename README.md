@@ -23,7 +23,8 @@ This project is an automation framework using WebdriverIO and Appium for both iO
     npm install
     ```
 
-3. Set your Desired Capablities in `wdio.conf.js`:
+3. Set your Desired Capablities in `wdio.conf.js`
+4. Update file paths used in e22.js file
 
 ## Running Tests
 1. To run the tests, use the following command:
